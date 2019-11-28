@@ -1,4 +1,4 @@
-# face-recog-video-opencv2
+# Video-based face recognition
 realtime face recognition of streams and videos
 
 This code can recognize and display faces in livestreams and videos by its own.
